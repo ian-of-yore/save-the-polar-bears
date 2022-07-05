@@ -59,3 +59,12 @@ body {
     box-shadow: 10px 10px 40px grey;
     border-radius: 5px;
 }
+
+#donate-now {
+    margin-top: 40px;
+}
+
+input[type=text] {
+    border: none;
+    border-bottom: 4px solid #8842d5;
+}
