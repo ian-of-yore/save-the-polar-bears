@@ -66,11 +66,12 @@ body {
 
 input[type=text] {
     border: none;
-    border-bottom: 1px solid #8842d5;
+    border-bottom: 1px solid rgb(149, 148, 148);
     width: 800px;
 
 }
 
 #other-amount p {
     color: rgb(153, 152, 152);
+
 }
