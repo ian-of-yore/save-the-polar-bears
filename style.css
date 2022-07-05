@@ -1,0 +1,33 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+
+h1 {
+    font-size: 60px;
+    color: white;
+
+}
+
+.intro {
+    text-align: center;
+}
+
+#intro-para {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.link-button {
+    background-image: linear-gradient(rgb(124, 124, 201), navy);
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+
+.top-banner {
+    background-image: url(images/Polar-Bear-01.jpg);
+    background-repeat: no-repeat;
+}
