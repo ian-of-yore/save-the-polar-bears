@@ -3,19 +3,18 @@ body {
     margin: 0%;
 }
 
-h1 {
-    font-size: 60px;
-    color: white;
-
-}
-
 .intro {
     text-align: center;
+    background-image: url(images/Polar-Bear-01.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50%;
 }
 
-#intro-para {
-    margin-left: 300px;
-    margin-right: 300px;
+.intro h1 {
+    font-size: 60px;
+    color: red;
 }
 
 .link-button {
@@ -25,9 +24,4 @@ h1 {
     text-decoration: none;
     padding: 10px 30px;
     border-radius: 5px;
-}
-
-.top-banner {
-    background-image: url(images/Polar-Bear-01.jpg);
-    background-repeat: no-repeat;
 }
