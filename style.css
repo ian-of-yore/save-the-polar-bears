@@ -1,10 +1,11 @@
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
     margin: 0;
+    height: 100%;
+    width: 100%;
 }
 
-.intro {
-    margin-top: 0%;
+#intro {
     text-align: center;
     background-image: url(images/bg.jpg);
     background-size: cover;
@@ -12,15 +13,14 @@ body {
     padding-bottom: 300px;
 }
 
-.intro h1 {
-    padding-top: 20px;
+#intro h1 {
     font-size: 100px;
     color: white;
 }
 
-.intro h2 {
-    font: 2000px;
-    margin-bottom: 100px;
+#intro h2 {
+    font-size: 30px;
+    margin-bottom: 50px;
     color: white;
 }
 
@@ -31,4 +31,16 @@ body {
     text-decoration: none;
     padding: 20px 50px;
     border-radius: 5px;
+}
+
+#donation {
+    text-align: center;
+}
+
+#donation h1 {
+    font-size: 40px;
+}
+
+#donation p {
+    font-size: 20px;
 }
