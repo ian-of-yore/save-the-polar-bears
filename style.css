@@ -9,12 +9,16 @@ body {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 50%;
+    height: 100%;
 }
 
 .intro h1 {
     font-size: 60px;
     color: red;
+}
+
+.intro p {
+    margin-bottom: 30px;
 }
 
 .link-button {
