@@ -123,6 +123,44 @@ input[type=text] {
     font-weight: bold;
 }
 
+#follow-us {
+    text-align: center;
+}
+
+#follow-us h1 {
+    font-size: 40px;
+}
+
+#follow-us p {
+    font-size: 20px;
+    padding-left: 350px;
+    padding-right: 350px;
+
+}
+
+.subscribe {
+    background-color: tomato;
+    font-size: larger;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+#email {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 0 0;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+
+}
+
+
 footer h1 {
     padding-top: 20px;
     text-align: center;
