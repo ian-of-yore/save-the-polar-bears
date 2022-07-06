@@ -56,7 +56,8 @@ body {
 .flexible-container {
     display: flex;
     margin-bottom: 50px;
-    gap: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 .amount {
@@ -110,8 +111,20 @@ input[type=text] {
     padding-left: 2%;
     padding-right: 1%;
     padding-top: 2%;
-    box-shadow: 10px 10px 40px grey;
+    box-shadow: 2px 2px 4px grey;
     border-radius: 5px;
+}
+
+#misson {
+    background-color: rgb(171, 253, 253);
+}
+
+#team {
+    background-color: rgb(209, 239, 150);
+}
+
+#sponsor {
+    background-color: rgb(235, 167, 160);
 }
 
 .float-img {
