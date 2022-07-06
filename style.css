@@ -154,7 +154,6 @@ input[type=text] {
     text-align: center;
     text-decoration: none;
     padding: 10px 20px;
-    border-radius: 5px;
 
 }
 
@@ -191,7 +190,7 @@ input[type=text] {
     margin-bottom: 70px;
     margin-top: 50px;
     padding-left: 20px;
-    gap: 5px;
+    gap: 0;
 }
 
 footer h1 {
