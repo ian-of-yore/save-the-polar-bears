@@ -1,34 +1,33 @@
 body {
     font-family: 'Poppins', sans-serif;
-    margin: 0;
 }
 
-.intro-center {
-    margin-top: 2%;
+#intro {
+    background-image: url(images/Polar-Bear-05.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#intro-text {
     text-align: center;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    padding: 11%;
 }
 
-#intro-h1 {
+#intro-text p {
+    font-size: 30px;
+    font-weight: 600;
+    color: white;
+    filter: grayscale(100%);
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+#intro-text h1 {
     font-size: 75px;
     color: black;
     font-weight: 700;
     text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
 
-#intro-h2 {
-    font-size: 30px;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-    color: white;
-
-}
-
-#intro-button {
-    margin-top: 10%;
-}
 
 .link-button {
     background-color: rgb(233, 42, 42);
