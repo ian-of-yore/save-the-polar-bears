@@ -53,7 +53,7 @@ body {
     padding-right: 350px;
 }
 
-#flexible-container {
+.flexible-container {
     display: flex;
     margin-bottom: 50px;
     gap: 10px;
