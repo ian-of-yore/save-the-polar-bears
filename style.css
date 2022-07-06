@@ -60,6 +60,7 @@ body {
     margin-right: 10%;
 }
 
+
 .amount {
     width: 16%;
     margin-left: 2%;
@@ -139,7 +140,6 @@ input[type=text] {
 }
 
 .activities-heading {
-    text-align: left;
     color: black;
     font-size: x-large;
     font-weight: bold;
@@ -258,6 +258,57 @@ input[type=text] {
     padding-right: .8%;
     padding-bottom: 0.5%;
     border-radius: 5px;
+}
+
+
+.arctic {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.arctic-half {
+    width: 50%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+}
+
+
+.arctic-half img {
+    width: 100%;
+}
+
+.arctic-container {
+    display: flex;
+    margin-bottom: 50px;
+
+}
+
+#arctic-button {
+    background-color: grey;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+
+.arctic-half h1 {
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.arctic-bold {
+    font-size: larger;
+    font-weight: 700;
+
+}
+
+#arctic-text {
+    padding-bottom: 30px;
+    text-align: justify;
 }
 
 footer h1 {
