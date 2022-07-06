@@ -193,57 +193,57 @@ input[type=text] {
     gap: 0;
 }
 
-#takar-poriman {
+#dollar {
     font-size: larger;
     color: grey;
     display: flex;
     gap: 10px;
-    margin-left: 20%;
+    margin-left: 25%;
 }
 
-#eksho {
+#one-dollar {
     background-color: #ccc;
     width: 130px;
     height: 120px;
-    padding-left: 3.5%;
-    padding-top: 2%;
+    padding-right: .8%;
+    padding-bottom: 0.5%;
     border-radius: 5px;
 }
 
-#duisho {
+#five-dollar {
     background-color: #ccc;
     width: 130px;
     height: 120px;
-    padding-left: 3.5%;
-    padding-top: 2%;
+    padding-right: .8%;
+    padding-bottom: 0.5%;
     border-radius: 5px;
 }
 
-#pachsho {
+#ten-dollar {
     background-color: #ccc;
     width: 130px;
     height: 120px;
-    padding-left: 3.5%;
-    padding-top: 2%;
+    padding-right: .8%;
+    padding-bottom: 0.5%;
     border-radius: 5px;
 }
 
-#ek-hajar {
+#fifty-dollar {
     background-color: rgb(240, 151, 151);
     width: 130px;
     height: 120px;
-    padding-left: 3.5%;
-    padding-top: 2%;
+    padding-right: .8%;
+    padding-bottom: 0.5%;
     border: 3px solid black;
     border-radius: 5px;
 }
 
-#pach-hajar {
+#hundred-dollar {
     background-color: #ccc;
-    width: 130px;
+    width: 140px;
     height: 120px;
-    padding-left: 3.5%;
-    padding-top: 2%;
+    padding-right: .8%;
+    padding-bottom: 0.5%;
     border-radius: 5px;
 }
 
