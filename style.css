@@ -180,7 +180,7 @@ body {
     margin-bottom: 40%;
 }
 
-#email input[type=text] {
+#email input[type=email] {
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
