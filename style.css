@@ -193,6 +193,60 @@ input[type=text] {
     gap: 0;
 }
 
+#takar-poriman {
+    font-size: larger;
+    color: grey;
+    display: flex;
+    gap: 10px;
+    margin-left: 20%;
+}
+
+#eksho {
+    background-color: #ccc;
+    width: 130px;
+    height: 120px;
+    padding-left: 3.5%;
+    padding-top: 2%;
+    border-radius: 5px;
+}
+
+#duisho {
+    background-color: #ccc;
+    width: 130px;
+    height: 120px;
+    padding-left: 3.5%;
+    padding-top: 2%;
+    border-radius: 5px;
+}
+
+#pachsho {
+    background-color: #ccc;
+    width: 130px;
+    height: 120px;
+    padding-left: 3.5%;
+    padding-top: 2%;
+    border-radius: 5px;
+}
+
+#ek-hajar {
+    background-color: rgb(240, 151, 151);
+    width: 130px;
+    height: 120px;
+    padding-left: 3.5%;
+    padding-top: 2%;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+#pach-hajar {
+    background-color: #ccc;
+    width: 130px;
+    height: 120px;
+    padding-left: 3.5%;
+    padding-top: 2%;
+    border-radius: 5px;
+}
+
 footer h1 {
     padding-top: 20px;
     text-align: center;
